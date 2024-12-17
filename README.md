@@ -21,7 +21,7 @@ Apaixonado por tecnologia, desenvolvo aplicações web e APIs usando ReactJS, No
   <div style="width: 45%; text-align: center;">
     <h3>:fire: Top Languages</h3>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxander&langs_count=8&layout=compact&theme=default" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxander&langs_count=8&layout=compact&theme=default&cache_seconds=86400" alt="Top Langs" />
     </a>
   </div>
 </div>
