@@ -3,9 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-407bff?style=flat-square&labelColor=407bff&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-alexandre-a859b1341/)](https://www.linkedin.com/in/gabriel-alexandre-a859b1341/) 
 [![Github Badge](https://img.shields.io/badge/-Github-407bff?style=flat-square&labelColor=407bff&logo=Github&logoColor=white&link=https://github.com/kaxander)](https://github.com/kaxander) 
 
-**Backend Developer | APIs | .NET 9 | C# | Cloud Computing**
+**Backend Developer | APIs | .NET | C# | Cloud Computing**
 
-Apaixonado por **arquitetura de software, APIs escaláveis e desenvolvimento backend**, utilizo **C# e .NET 9** para criar soluções eficientes e de alto desempenho. Busco sempre inovação, aprendizado contínuo e boas práticas de desenvolvimento.
+Apaixonado por **arquitetura de software, APIs escaláveis e desenvolvimento backend**, utilizo **C# e .NET** para criar soluções eficientes e de alto desempenho. Busco sempre inovação, aprendizado contínuo e boas práticas de desenvolvimento.
 
 ---
 
